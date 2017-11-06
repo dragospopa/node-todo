@@ -1,5 +1,8 @@
 {
   "name": "application-name",
+  "engines": {
+    "node": "6.11.5" // intentionally so big version number
+  },
   "version": "0.0.1",
   "private": true,
   "dependencies": {
